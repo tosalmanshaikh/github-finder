@@ -7,6 +7,7 @@ function App() {
          <div className="flex flex-column justify-between h-screen">
             <Navbar />
             <main>Content</main>
+            <h1>git hub test</h1>
          </div>
       </Router>
    );
